@@ -1,0 +1,2 @@
+Lors de ma formation chez O'Clock, j'ai utilisé ce script, qui, en plus de copier ma signature, utilisait une image pour ajouter un dessin.
+Pour l'utiliser tel quel, vous pouvez employer Microsoft Paint.
